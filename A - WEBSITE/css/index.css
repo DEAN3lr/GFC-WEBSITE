@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+body {
+    background#0000;
+    margin: 0;
+    font-family: 'Jomhuria', cursive;
+    
+  } 
+
+  li {
+    float: left;
+    
+  }
+
+  a {
+    display: block;
+    margin: 30px;
+    font-size: 250%;
+    color: white;
+    
+    
+    
+  }
+
+
+
+
+
+*{
+    background: black;
+    
+}
+
+.website-image {
+   display: block;
+   margin: auto;
+   position: sticky;
+
+}
+
+.navbar {
+    
+    background: black;
+    
+
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: vh;
+    margin: auto;
+    
+  }
